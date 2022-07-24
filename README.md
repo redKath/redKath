@@ -19,11 +19,11 @@ My name is Kathleen and I'm a Fullstack Software Engineer. I'm a Computer Engine
 - ⚡ Fun fact: I'm interested in Astronomy.
 
 ## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redKath&theme=tokyonight&layout=compact)](https://github.com/rahulkarda/readme-components)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redKath&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/rahulkarda/readme-components)
 
-[![Kate's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redKath&theme=tokyonight&hide_border=true)](https://github.com/rahulkarda/readme-components)
+[![Kate's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redKath&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/rahulkarda/readme-components)
 
-[![Kate's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=redKath&theme=tokyonight)](https://github.com/rahulkarda/readme-components)
+[![Kate's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=redKath&theme=tokyonight&count_private=true)](https://github.com/rahulkarda/readme-components)
 <!--
 **redKath/redKath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
