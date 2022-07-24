@@ -4,6 +4,7 @@
 <a href="https://twitter.com/redkathh"> <img src="https://img.shields.io/twitter/follow/redkathh?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/> 
 <img src="https://komarev.com/ghpvc/?username=redKath&color=blue&style=for-the-badge"/></a>
 </p>
+
 ## Hi there 👋
 
 My name is Kathleen and I'm a Fullstack Software Engineer. I'm a Computer Engineering undergraduate based in the Philippines.
