@@ -1,8 +1,12 @@
 ![](./assets/Top%20Header.gif)
 <p align="center">
-<a href="https://www.linkedin.com/in/kathleen-jogno/"> <img src="https://img.shields.io/static/v1?label=|&message=Linkedin&color=blue&style=for-the-badge&logo=linkedin&logo-color=white"/> </a>
-<a href="https://twitter.com/redkathh"> <img src="https://img.shields.io/twitter/follow/redkathh?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/> 
-<img src="https://komarev.com/ghpvc/?username=redKath&color=blue&style=for-the-badge"/></a>
+    <a href="https://www.linkedin.com/in/kathleen-jogno/">
+        <img src="https://img.shields.io/static/v1?label=|&message=Linkedin&color=blue&style=for-the-badge&logo=linkedin&logo-color=white"/>
+    </a>
+    <a href="https://twitter.com/redkathh">
+        <img src="https://img.shields.io/twitter/follow/redkathh?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=redKath&color=blue&style=for-the-badge"/>
 </p>
 
 ## Hi there 👋
