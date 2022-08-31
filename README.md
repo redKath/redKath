@@ -23,7 +23,7 @@ My name is Kathleen and I'm a Fullstack Software Engineer. I'm a Computer Engine
 <table bordercolor="#008080">
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">Hair Salon Website</h4>
+      <h3 align="center">Hair Salon Website</h3>
         <br />
         <a target="_blank" href="https://vigeandcosalon.netlify.app/">
             <img src="assets/Vige & Co.png" width="100%" alt="Hair Salon Website"/>
@@ -41,28 +41,28 @@ My name is Kathleen and I'm a Fullstack Software Engineer. I'm a Computer Engine
         <p><strong>Semantic HTML5 and CSS3</strong> <br> Static Website : A Simple Website for a Hair Salon.</p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">Space Rocket with Speedometer</h4>
+      <h3 align="center">Level Ground Landing Page</h3>
         <br />
       <a target="_blank" href="https://codepen.io/redkath/full/zYWmvRK">
-            <img src="assets/Space Rocket with Speedometer.png" width="100%"  alt="Space Rocket with Speedometer"/>
+            <img src="assets/Levelground Design in Devices.png" width="100%"  alt="Space Rocket with Speedometer"/>
         </a>
         <br />
         <p align="center">
    <br>
- <a href="https://github.com/redKath/speedy-space-rocket" target="_blank">
+ <a href="https://github.com/redKath/levelground" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=purple&style=for-the-badge&logo=Github&logo-color=white"/>
   </a>  
-  <a href="https://codepen.io/redkath/full/zYWmvRK" target="_blank">
+  <a href="https://levelground-redkathh.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=lightblue&style=for-the-badge&logo=realm&logo-color=white" />
   </a>
       </p>
-        <p><strong>HTML5, CSS3, JavaScript + Three.js</strong> <br> A rotation speed simulator for a space rocket with speedometer and voice synthesis.</p>
+        <p><strong>Semantic HTML5 and CSS3</strong> <br> A landing page for Level Ground Mixed Martial Arts</p>
     </td>
   </tr>
   
   <tr>
-    <td colspan="2">
-      <h4 align="center">NASA View Picker</h4>
+    <td>
+      <h3 align="center">NASA View Picker</h3>
       <br />
         <a target="_blank" href="https://redkathh-nasa-view-picker.glitch.me/">
           <img src="assets/nasa view picker.png" width="100%" alt="NASA View Picker"/>
@@ -79,7 +79,24 @@ My name is Kathleen and I'm a Fullstack Software Engineer. I'm a Computer Engine
       </p>
        <p align="center"><strong >HTML5, CSS3, and JavaScript </strong> <br> Background Picker using images from James Webb Space Telescope.</p>
     </td>
+    <td><h3 align="center">Space Rocket with Speedometer</h3>
+        <br />
+      <a target="_blank" href="https://codepen.io/redkath/full/zYWmvRK">
+            <img src="assets/Space Rocket with Speedometer.png" width="100%"  alt="Space Rocket with Speedometer"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+ <a href="https://github.com/redKath/speedy-space-rocket" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=purple&style=for-the-badge&logo=Github&logo-color=white"/>
+  </a>  
+  <a href="https://codepen.io/redkath/full/zYWmvRK" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=lightblue&style=for-the-badge&logo=realm&logo-color=white" />
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, JavaScript + Three.js</strong> <br> A rotation speed simulator for a space rocket with speedometer and voice synthesis.</p></td>
   </tr>
+
   <!---
 to add more row, just add another tr
 -->
