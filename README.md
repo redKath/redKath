@@ -10,13 +10,14 @@
 </p>
 
 ## Hi there 👋
+My name is Kathleen and I'm a Fullstack Software Engineer. I graduated BS Computer Engineering undergraduate from Technological Institute of the Philippines - Quezon City.
 
-My name is Kathleen and I'm a Fullstack Software Engineer. I'm a Computer Engineering undergraduate based in the Philippines.
-
+- 📝 I'm a Technical Writer at [Open Source Software (OSS) PH](https://ossph.org/).
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on different projects.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm interested in Astronomy.
+- 📺 I enjoy watching K-dramas and anime in my free time.
 
 ## My Recent Projects :woman_technologist:
 <!-- <h1 align="center">Projects</h1> -->
@@ -102,6 +103,8 @@ to add more row, just add another tr
 -->
 </table>
 
+## Tech Stack :briefcase:
+![](https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 
 ## Github Stats :bar_chart:	
