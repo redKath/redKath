@@ -10,7 +10,7 @@
 </p>
 
 ## Hi there 👋
-My name is Kathleen and I'm a Fullstack Software Engineer. I graduated BS Computer Engineering from Technological Institute of the Philippines - Quezon City.
+My name is Kathleen and I'm a Software Engineer. I graduated BS Computer Engineering from Technological Institute of the Philippines - Quezon City.
 
 - 📝 I'm a Technical Writer at [Open Source Software (OSS) PH](https://ossph.org/).
 - 🌱 I’m currently learning Javascript.
